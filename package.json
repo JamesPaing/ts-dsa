@@ -1,0 +1,14 @@
+{
+    "name": "dsnalgo",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "watch": "tsc --watch",
+        "start": "nodemon dist/index.js"
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.7",
+        "typescript": "^5.6.3"
+    }
+}
