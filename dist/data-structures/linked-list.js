@@ -14,6 +14,12 @@ class LinkedList {
     constructor() {
         this.head = null;
         this.tail = null;
+        // bulkInsert()
+        // insertHead()
+        // insertTail()
+        // removeFirst()
+        // removeTail()
+        // remove()
         // removeAll() - remove a list/array of items from the LinkedList
         // contains() - check to see if the LinkedList contains an item
         // contains() - clear all items in the LinkedList
